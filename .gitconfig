@@ -1,0 +1,12 @@
+[alias]
+	gs = git status
+	br = branch
+	coma = checkout master
+	co = checkout
+	pu = push
+	mema = merge master
+	st = stash
+	fepu = fetch origin --prune
+[user]
+	name = Andrei Shevtsov
+	email = parad0x.ua@gmail.com
