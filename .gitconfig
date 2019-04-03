@@ -10,3 +10,5 @@
 [user]
 	name = Andrei Shevtsov
 	email = parad0x.ua@gmail.com
+[core]
+	editor = vim
